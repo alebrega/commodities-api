@@ -1,6 +1,6 @@
 # Commodities-Api JSON API
 
-Commodities-API provides an easy-to-integrate REST JSON with real-time and historical Commodity and exchange rates for 168 world currencies.
+[Commodities-API.com](https://www.commodities-api.com) provides an easy-to-integrate REST JSON with real-time and historical Commodity and exchange rates for 168 world currencies.
 
 # Which commodities and currencies are supported?
 
