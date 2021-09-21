@@ -12,7 +12,7 @@ We support: Rice, Wheat, Coffee, Corn, Sugar, Brent Crude Oil, WTI Crude Oil, So
 
 Commodities and Exchange rate data is collected from several major data vendors in real-time, bid/ask prices are blended algorithmically, validated, and delivered hourly, every 10 minutes, or even within the 60-second market window.
 
-Providing the most representative forex market value available ("midpoint" value) for every API request, [the Commodities API](https://www.commodities-api.com) powers commodities broker, fintech companies, metals converters, currency converters, mobile apps and back-office systems all around the world.
+Providing the most representative forex market value available ("midpoint" value) for every API request, our API powers commodities broker, fintech companies, metals converters, currency converters, mobile apps and back-office systems all around the world.
 
 
 [Sign up for free](https://www.commodities-api.com) to get instant API Access.
